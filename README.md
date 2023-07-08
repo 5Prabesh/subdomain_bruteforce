@@ -32,7 +32,7 @@ pip install requests
 
 
 After installing modules enter
-
+# Make sure to make a wordlist which contains the possible domain name 
 ```html
 python Subdomain.py [-h] [-l WORDLIST] [-t NUM_THREADS] [-o OUTPUT_FILE] domain
 ```
